@@ -44,3 +44,20 @@ li a:hover {
 }
 
 
+
+.grid{
+  display: grid;
+  /*displays 4 columns*/
+  grid-template-columns: 1fr 1fr 1fr 1fr ;
+}
+
+footer{
+  background-color: lightgrey;
+  padding:40px;
+  font-family:sans-serif;
+  font-size: 20px;
+}
+
+
+
+
