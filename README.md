@@ -4,4 +4,4 @@ The webpage has a navigtion bar with the menu on the right.
 When I click to the menu, it directs the user to the corresponding section.
 I have also added my contact details and link to my Github and Linkden profile.
 
-![](images/Website Image.PNG)
+![](Images/Website Image.PNG)
