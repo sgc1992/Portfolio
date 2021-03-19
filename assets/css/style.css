@@ -43,10 +43,12 @@ li a:hover {
   background-color: rgb(173, 27, 27);
 }
 
-.container{
+.container,.container1,.container2{
   display: flex;
   flex-wrap: nowrap;
   background-color:rgb(202, 202, 207);
+  font-size: 15px;
+  
 }
 
 .section-title {
@@ -55,6 +57,7 @@ li a:hover {
   padding-top: 10px;
   padding-bottom: 10px;
   font-size: 30px;
+  border: 15px right rgb(25, 24, 126);
 }
 
 .section-content {
@@ -63,8 +66,11 @@ li a:hover {
   flex-grow: 4;
 }
 
-
-
+h1{
+  
+  background-color:rgb(236, 234, 231);
+  padding:5%;
+}
 
 
 
