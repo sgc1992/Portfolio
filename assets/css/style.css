@@ -74,6 +74,18 @@ h1{
   padding:5%;
 }
 
+aside{
+  display: flex;
+  background-color: DodgerBlue;
+  padding:2%;
+  font-weight: bold;
+  font-family: initial;
+  
+}
+
+
+
+
 
 
 
